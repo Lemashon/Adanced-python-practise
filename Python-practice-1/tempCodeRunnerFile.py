@@ -1,1 +1,1 @@
-"not a palindrome")
+IF NOT EXISTS
